@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ac31f215-81ac-41ea-9f44-6a9a55d4b616" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/smpaaark/programmers/CheckDistancing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/smpaaark/programmers/CheckDistancing.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +30,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.MenuRenewal">
+  <component name="RunManager" selected="Application.RotatingMatrixBorders">
     <configuration name="CheckDistancing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.CheckDistancing" />
       <module name="programmers" />
@@ -47,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionDevelopment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.FunctionDevelopment" />
+    <configuration name="FindPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.FindPrimeNumber" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.Numbers124" />
+    <configuration name="ParentalTranslation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.ParentalTranslation" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.StringCompression" />
+    <configuration name="RotatingMatrixBorders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.RotatingMatrixBorders" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotatingMatrixBorders" />
+        <item itemvalue="Application.FindPrimeNumber" />
+        <item itemvalue="Application.ParentalTranslation" />
         <item itemvalue="Application.MenuRenewal" />
         <item itemvalue="Application.CheckDistancing" />
-        <item itemvalue="Application.StringCompression" />
-        <item itemvalue="Application.FunctionDevelopment" />
-        <item itemvalue="Application.Numbers124" />
       </list>
     </recent_temporary>
   </component>
@@ -122,6 +122,17 @@
       <updated>1628576685311</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -155,6 +166,11 @@
           <url>file://$PROJECT_DIR$/src/com/smpaaark/programmers/MenuRenewal.java</url>
           <line>20</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smpaaark/programmers/RotatingMatrixBorders.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
