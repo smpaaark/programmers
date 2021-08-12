@@ -33,7 +33,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.MaximizeFormula">
+  <component name="RunManager" selected="Application.NewsClustering">
     <configuration name="FindPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.FindPrimeNumber" />
       <module name="programmers" />
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuRenewal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.MenuRenewal" />
+    <configuration name="NewsClustering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.NewsClustering" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NewsClustering" />
         <item itemvalue="Application.MaximizeFormula" />
         <item itemvalue="Application.RotatingMatrixBorders" />
         <item itemvalue="Application.FindPrimeNumber" />
         <item itemvalue="Application.ParentalTranslation" />
-        <item itemvalue="Application.MenuRenewal" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +176,11 @@
           <url>file://$PROJECT_DIR$/src/com/smpaaark/programmers/MaximizeFormula.java</url>
           <line>23</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smpaaark/programmers/NewsClustering.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
