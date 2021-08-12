@@ -33,9 +33,9 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.RotatingMatrixBorders">
-    <configuration name="CheckDistancing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.CheckDistancing" />
+  <component name="RunManager" selected="Application.MaximizeFormula">
+    <configuration name="FindPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.FindPrimeNumber" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -47,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.FindPrimeNumber" />
+    <configuration name="MaximizeFormula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.smpaaark.programmers.MaximizeFormula" />
       <module name="programmers" />
       <extension name="coverage">
         <pattern>
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximizeFormula" />
         <item itemvalue="Application.RotatingMatrixBorders" />
         <item itemvalue="Application.FindPrimeNumber" />
         <item itemvalue="Application.ParentalTranslation" />
         <item itemvalue="Application.MenuRenewal" />
-        <item itemvalue="Application.CheckDistancing" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +171,11 @@
           <url>file://$PROJECT_DIR$/src/com/smpaaark/programmers/RotatingMatrixBorders.java</url>
           <line>33</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/smpaaark/programmers/MaximizeFormula.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

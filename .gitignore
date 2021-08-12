@@ -1,5 +1,6 @@
 generated
 out
+.idea/workspace.xml
 
 HELP.md
 target/
